@@ -1,2 +1,3 @@
 git learing
 changing it again
+git has a mutable index called stage
